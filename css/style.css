@@ -1,0 +1,24 @@
+html, body {
+	margin: 0;
+}
+body {
+	height: 100vh;
+}
+
+ul, li {
+	margin: 0;
+	padding: 0;
+}
+
+.show-grid {
+	background: url(../images/column-152px.png);
+	height: 100vh;
+}
+
+.row {
+	width: 1216px;
+	margin: 0 auto;
+}
+.leading{
+	background: url(../images/leading-24px.png);
+}
